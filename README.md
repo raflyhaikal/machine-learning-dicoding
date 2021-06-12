@@ -1,1 +1,1 @@
-#Proyek Akhir : Klasifikasi Gambar
+Proyek Akhir : Klasifikasi Gambar
